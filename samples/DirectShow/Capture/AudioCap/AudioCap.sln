@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AudioCap", "AudioCap.vcproj", "{21C78133-08A0-4AC6-A0E5-65F71A17A674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Unicode|Win32 = Debug Unicode|Win32
+		Debug|Win32 = Debug|Win32
+		Release Unicode|Win32 = Release Unicode|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C78133-08A0-4AC6-A0E5-65F71A17A674}.Debug Unicode|Win32.ActiveCfg = Debug Unicode|Win32
+		{21C78133-08A0-4AC6-A0E5-65F71A17A674}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21C78133-08A0-4AC6-A0E5-65F71A17A674}.Release Unicode|Win32.ActiveCfg = Release Unicode|Win32
+		{21C78133-08A0-4AC6-A0E5-65F71A17A674}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

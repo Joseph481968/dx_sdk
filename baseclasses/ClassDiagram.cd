@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="CBaseObject">
+    <Position X="0.5" Y="2.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAQAQAAAAAAAIAAAAAgAAAAAgA=</HashCode>
+      <FileName>combase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTransformFilter">
+    <Position X="12.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AFQiUAAACABJABAAiAAgAAQAAAIA+EAQIAACABJAAYE=</HashCode>
+      <FileName>transfrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseFilter">
+    <Position X="8.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAUkAMBAAAgBgCAIMgCggAAEAAIDGACAJAAAAgIAGgI=</HashCode>
+      <FileName>amfilter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUnknown">
+    <Position X="4.5" Y="2.25" Width="3.25" />
+    <InheritanceLine Type="CBaseObject">
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.466" Y="0.141" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAIgAAAAQAAgAAAAAAAAAAAAABAAAAAAIAAA=</HashCode>
+      <FileName>combase.h</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Typedef Name="IBaseFilter" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\strmif.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="IAMovieSetup" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\strmif.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

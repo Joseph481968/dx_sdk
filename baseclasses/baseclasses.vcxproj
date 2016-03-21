@@ -153,6 +153,7 @@
   <ItemGroup>
     <None Include="activex.rcv" />
     <None Include="activex.ver" />
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dllsetup.h" />
